@@ -1,3 +1,5 @@
+👉 **[Click Here to view the Interactive Notebook and SHAP Charts in Google Colab](https://colab.research.google.com/github/Rdargie/Explainable-AI-Wine-Classifier/blob/main/Wine_Quality_XAI.ipynb)**
+
 #  Predicting Premium Wine Quality: An Explainable AI (XAI) Approach
 
 ##  The Scientific Objective
